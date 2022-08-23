@@ -1,2 +1,3 @@
-# computational_mechanics
- Hesaplamalı mekanik soru çözümü
+# Computational Mechanics
+
+ Makine mühendisliğinin derslerinden olan hesaplamalı mekanik dersinin uzun ve tekrarlanan matematiksel işlemlerini Python kodlarına döktüğüm mini bir uygulamamdır.
